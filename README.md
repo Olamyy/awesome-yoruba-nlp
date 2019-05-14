@@ -1,4 +1,4 @@
-# awesome-yoruab-nlp 
+# awesome-yoruba-nlp 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -33,6 +33,7 @@ Please feel free to create [pull requests](https://github.com/olamyy/awesome-yor
 * [Intelligent System for Learning and Understanding of Yoruba Language](https://pdfs.semanticscholar.org/ac53/a1d3c93518fabd26470181ecbf07462e5e17.pdf)
 * [A Stochastic Collocation Algorithm Method for Processing the Yoruba Language Using the Data Context Approach Based on Text, Lexicon, and Grammar](http://www.akamaiuniversity.us/PJST19_1_175.pdf)
 * [Integration of Yoruba language into MaryTTS](https://link.springer.com/article/10.1007/s10772-016-9334-8)
+* [Attentive Seq2Seq Learning for Diacritic Restoration of Yorùbá Language Text](https://arxiv.org/abs/1804.00832)
 
 
 
@@ -42,3 +43,4 @@ Please feel free to create [pull requests](https://github.com/olamyy/awesome-yor
 
 ## Datasets
 * [Wiki Dump](https://dumps.wikimedia.org/yowiki/20180901/)
+* [yoruba-text](https://github.com/Niger-Volta-LTI/yoruba-text)
