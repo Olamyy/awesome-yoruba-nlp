@@ -42,5 +42,5 @@ Please feel free to create [pull requests](https://github.com/olamyy/awesome-yor
 * [A number to Yoruba text transcription system](https://www.slideshare.net/aflat/a-number-to-yorb-text-transcription-system)
 
 ## Datasets
-* [Wiki Dump](https://dumps.wikimedia.org/yowiki/20180901/)
+* [Wiki Dump](https://dumps.wikimedia.org/yowiki/latest/)
 * [yoruba-text](https://github.com/Niger-Volta-LTI/yoruba-text)
